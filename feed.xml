@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Test</title>
+    <link href="https://github.com/djkunkel/test-site.git/feed.xml" rel="self" />
+    <link href="https://github.com/djkunkel/test-site.git" />
+    <updated>2022-09-02T11:32:29-05:00</updated>
+    <author>
+        <name>DJ Kunkel</name>
+    </author>
+    <id>https://github.com/djkunkel/test-site.git</id>
+
+    <entry>
+        <title>This is a post</title>
+        <author>
+            <name>DJ Kunkel</name>
+        </author>
+        <link href="https://github.com/djkunkel/test-site.git/this-is-a-post.html"/>
+        <id>https://github.com/djkunkel/test-site.git/this-is-a-post.html</id>
+
+        <updated>2022-09-02T11:32:29-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Here's some text!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Here's some text!</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

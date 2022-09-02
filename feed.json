@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Test",
+    "description": "",
+    "home_page_url": "https://github.com/djkunkel/test-site.git",
+    "feed_url": "https://github.com/djkunkel/test-site.git/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "DJ Kunkel"
+    },
+    "items": [
+        {
+            "id": "https://github.com/djkunkel/test-site.git/this-is-a-post.html",
+            "url": "https://github.com/djkunkel/test-site.git/this-is-a-post.html",
+            "title": "This is a post",
+            "summary": "Here's some text!",
+            "content_html": "<p>Here's some text!</p>",
+            "author": {
+                "name": "DJ Kunkel"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-02T11:32:29-05:00",
+            "date_modified": "2022-09-02T11:32:29-05:00"
+        }
+    ]
+}
