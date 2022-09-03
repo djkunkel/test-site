@@ -1,27 +1,27 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Test",
+    "title": "My Test",
     "description": "",
-    "home_page_url": "https://github.com/djkunkel/test-site.git",
-    "feed_url": "https://github.com/djkunkel/test-site.git/feed.json",
+    "home_page_url": "https://dj-test-site-h5qes.ondigitalocean.app",
+    "feed_url": "https://dj-test-site-h5qes.ondigitalocean.app/feed.json",
     "user_comment": "",
     "author": {
         "name": "DJ Kunkel"
     },
     "items": [
         {
-            "id": "https://github.com/djkunkel/test-site.git/this-is-a-post.html",
-            "url": "https://github.com/djkunkel/test-site.git/this-is-a-post.html",
-            "title": "This is a post",
-            "summary": "Here's some text!",
-            "content_html": "<p>Here's some text!</p>",
+            "id": "https://dj-test-site-h5qes.ondigitalocean.app/hello-world.html",
+            "url": "https://dj-test-site-h5qes.ondigitalocean.app/hello-world.html",
+            "title": "Hello World",
+            "summary": "This is my hello world page.",
+            "content_html": "<p>This is my hello world page.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://dj-test-site-h5qes.ondigitalocean.app/media/posts/1/bird-s-eye-view-photography-of-lighted-city-3573383.jpg\" sizes=\"100vw\" srcset=\"https://dj-test-site-h5qes.ondigitalocean.app/media/posts/1/responsive/bird-s-eye-view-photography-of-lighted-city-3573383-xs.jpg 300w ,https://dj-test-site-h5qes.ondigitalocean.app/media/posts/1/responsive/bird-s-eye-view-photography-of-lighted-city-3573383-sm.jpg 480w ,https://dj-test-site-h5qes.ondigitalocean.app/media/posts/1/responsive/bird-s-eye-view-photography-of-lighted-city-3573383-md.jpg 768w ,https://dj-test-site-h5qes.ondigitalocean.app/media/posts/1/responsive/bird-s-eye-view-photography-of-lighted-city-3573383-lg.jpg 1024w ,https://dj-test-site-h5qes.ondigitalocean.app/media/posts/1/responsive/bird-s-eye-view-photography-of-lighted-city-3573383-xl.jpg 1360w ,https://dj-test-site-h5qes.ondigitalocean.app/media/posts/1/responsive/bird-s-eye-view-photography-of-lighted-city-3573383-2xl.jpg 1600w\"  alt=\"\" width=\"1920\" height=\"1280\"></figure>",
             "author": {
                 "name": "DJ Kunkel"
             },
             "tags": [
             ],
-            "date_published": "2022-09-02T11:32:29-05:00",
-            "date_modified": "2022-09-02T11:32:29-05:00"
+            "date_published": "2022-05-24T22:40:28-05:00",
+            "date_modified": "2022-05-24T22:40:28-05:00"
         }
     ]
 }

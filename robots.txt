@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://github.com/djkunkel/test-site.git/sitemap.xml
+Sitemap: https://dj-test-site-h5qes.ondigitalocean.app/sitemap.xml

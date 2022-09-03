@@ -1,31 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Test</title>
-    <link href="https://github.com/djkunkel/test-site.git/feed.xml" rel="self" />
-    <link href="https://github.com/djkunkel/test-site.git" />
-    <updated>2022-09-02T11:32:29-05:00</updated>
+    <title>My Test</title>
+    <link href="https://dj-test-site-h5qes.ondigitalocean.app/feed.xml" rel="self" />
+    <link href="https://dj-test-site-h5qes.ondigitalocean.app" />
+    <updated>2022-05-24T22:40:28-05:00</updated>
     <author>
         <name>DJ Kunkel</name>
     </author>
-    <id>https://github.com/djkunkel/test-site.git</id>
+    <id>https://dj-test-site-h5qes.ondigitalocean.app</id>
 
     <entry>
-        <title>This is a post</title>
+        <title>Hello World</title>
         <author>
             <name>DJ Kunkel</name>
         </author>
-        <link href="https://github.com/djkunkel/test-site.git/this-is-a-post.html"/>
-        <id>https://github.com/djkunkel/test-site.git/this-is-a-post.html</id>
+        <link href="https://dj-test-site-h5qes.ondigitalocean.app/hello-world.html"/>
+        <id>https://dj-test-site-h5qes.ondigitalocean.app/hello-world.html</id>
 
-        <updated>2022-09-02T11:32:29-05:00</updated>
+        <updated>2022-05-24T22:40:28-05:00</updated>
             <summary>
                 <![CDATA[
-                    Here's some text!
+                    This is my hello world page.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Here's some text!</p>
+                <p>This is my hello world page.</p>
+<figure class="post__image"><img loading="lazy"  src="https://dj-test-site-h5qes.ondigitalocean.app/media/posts/1/bird-s-eye-view-photography-of-lighted-city-3573383.jpg" sizes="100vw" srcset="https://dj-test-site-h5qes.ondigitalocean.app/media/posts/1/responsive/bird-s-eye-view-photography-of-lighted-city-3573383-xs.jpg 300w ,https://dj-test-site-h5qes.ondigitalocean.app/media/posts/1/responsive/bird-s-eye-view-photography-of-lighted-city-3573383-sm.jpg 480w ,https://dj-test-site-h5qes.ondigitalocean.app/media/posts/1/responsive/bird-s-eye-view-photography-of-lighted-city-3573383-md.jpg 768w ,https://dj-test-site-h5qes.ondigitalocean.app/media/posts/1/responsive/bird-s-eye-view-photography-of-lighted-city-3573383-lg.jpg 1024w ,https://dj-test-site-h5qes.ondigitalocean.app/media/posts/1/responsive/bird-s-eye-view-photography-of-lighted-city-3573383-xl.jpg 1360w ,https://dj-test-site-h5qes.ondigitalocean.app/media/posts/1/responsive/bird-s-eye-view-photography-of-lighted-city-3573383-2xl.jpg 1600w"  alt="" width="1920" height="1280"></figure>
             ]]>
         </content>
     </entry>
