@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>My Test</title>
+    <title>Indiana Destination Imagination</title>
     <link href="https://dj-test-site-h5qes.ondigitalocean.app/feed.xml" rel="self" />
     <link href="https://dj-test-site-h5qes.ondigitalocean.app" />
-    <updated>2022-05-24T22:40:28-05:00</updated>
+    <updated>2022-09-02T22:44:30-05:00</updated>
     <author>
         <name>DJ Kunkel</name>
     </author>
     <id>https://dj-test-site-h5qes.ondigitalocean.app</id>
 
     <entry>
-        <title>Hello World</title>
+        <title>Welcome to the 2022-2023 Season!</title>
         <author>
             <name>DJ Kunkel</name>
         </author>
         <link href="https://dj-test-site-h5qes.ondigitalocean.app/hello-world.html"/>
         <id>https://dj-test-site-h5qes.ondigitalocean.app/hello-world.html</id>
 
-        <updated>2022-05-24T22:40:28-05:00</updated>
+        <updated>2022-09-02T22:44:30-05:00</updated>
             <summary>
                 <![CDATA[
                     This is my hello world page.
